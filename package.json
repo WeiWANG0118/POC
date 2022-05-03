@@ -1,0 +1,12 @@
+{
+  "name": "POC",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest": "^28.0.3",
+    "socket.io": "^2.3.0"
+  }
+}
